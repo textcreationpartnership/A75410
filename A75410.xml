@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a paper entituled A true narrative of the cause and manner of the dissolution of the late Parliament, upon the 12. of December, 1653. Wherein the grounds and manner thereof are truly stated and vindicated, by a Member of the house then present.</title>
+            <author>Member of the House then present.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75410</idno>
+            <idno type="STC">Wing A3329</idno>
+            <idno type="STC">Thomason E725_20</idno>
+            <idno type="STC">ESTC R14410</idno>
+            <idno type="EEBO-CITATION">99859659</idno>
+            <idno type="PROQUEST">99859659</idno>
+            <idno type="VID">166799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166799)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a paper entituled A true narrative of the cause and manner of the dissolution of the late Parliament, upon the 12. of December, 1653. Wherein the grounds and manner thereof are truly stated and vindicated, by a Member of the house then present.</title>
+                  <author>Member of the House then present.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for G. Calvert, at the Black-spread-Eagle neer the west end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "January 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Member of the House then present. --  True narrative of the cause and manner of the dissolution of the late Parliament, upon the 12. of Decemb. 1653 --  Controversial literature --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166799:1" rendition="simple:additions"/>
+            <p>AN ANSWER To a Paper entituled A TRVE NARRATIVE OF THE Cauſe and Manner of the Diſſo<g ref="char:EOLhyphen"/>lution of the late Parliament, Upon the 12. of <hi>December,</hi> 1653.</p>
+            <p>
+               <hi>WHEREIN</hi> The Grounds and Manner thereof are truly ſtated and vindicated, <hi>By a Member of the Houſe then preſent.</hi>
+            </p>
+            <p>
+               <hi>Judge not according to the appearance, but judge right<g ref="char:EOLhyphen"/>eous judgment.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. N.</hi> for <hi>G. Calvert,</hi> at the Black-ſpread-Eagle neer the weſt end of <hi>Pauls.</hi> 1653</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:166799:2"/>
+            <pb n="1" facs="tcp:166799:2"/>
+            <head>
+               <hi>An Anſwer to a Paper entituled,</hi> A true Narrative of the cauſe and manner of the Diſſolution of the late Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ere there no other Reaſon for the writing of this Diſcourſe, yet would it ſufficiently apologize for itſelf, in that it is intended to undeceive the minds of good men, who may eaſily be miſ-informed in reading over a printed Paper called <hi>A true Narrative of the Cauſe and Manner of the Diſſolution of the late Parlia<g ref="char:EOLhyphen"/>ment.</hi> Wherein things are with ſo much partiality and mi<g ref="char:EOLhyphen"/>ſtake ſet down, that although I ſhould eaſily have believed the Author thereof to have been perfectly a friend to the party and intereſt of ſome of the late Members, yet I ſhould not have thought him a Member preſent at thoſe Tranſ<g ref="char:EOLhyphen"/>actions, had he not in the title of his Paper printed himſelf ſo to be.</p>
+            <p>And firſt of all, though I intend to be very brief, and only touch at things, which may be more dilated upon and clear<g ref="char:EOLhyphen"/>ed hereafter by a better hand, yet before I deſcend to an<g ref="char:EOLhyphen"/>ſwer this Paper particularly, I ſhall premiſe ſomething to give a witneſs to the ground of that fear and jealouſie that lay upon my ſelf and others whilſt ſitting there, and that judgment of impoſſibility for us to do any good, our Prin<g ref="char:EOLhyphen"/>ciples and Conſtitutions being duly weighed, and our Pra<g ref="char:EOLhyphen"/>ctice thereupon.</p>
+            <p>
+               <pb n="2" facs="tcp:166799:3"/>Theſe three things were evidently in the principles of di<g ref="char:EOLhyphen"/>vers of thoſe men in the Houſe (whom I, amongſt others, thought it not ſafe to ſit longer with) which though I will not determine but that they might be the iſſues of a deluded mind, yet looked very like the worſt deſigns.</p>
+            <p>Firſt, a general owning themſelves to Rule the Nation on<g ref="char:EOLhyphen"/>ly as Saints, to whom the right of Civil Government did belong, and as having an extraordinary call from Chriſt thereto, being the beginning of a fifth Monarchy, which was never to ceaſe, but to break in pieces all Powers by making War with them. In which, beſides the diſhonour was caſt upon the good waies of God and his people, and the a<g ref="char:EOLhyphen"/>buſe of many truths, and in particular that of the Kingdom of Chriſt on earth, a thing to be expected and longed for as the Scriptures hold it forth to us; 'Tis no way hard to diſcern what a foundation was laid of exalting men (who ſhould take to themſelves the name of Saints, though never ſo unduly) in Government, and excluding all others who had never ſo great Intereſt in the Nation, and other fitneſs thereto, and have a Civil Right to Rule, when Providence ſhall give them a lawfull call thereto.</p>
+            <p>Secondly how great a ground was this to put the ſtamp of infallibility upon all they ſhould do, and conclude the Nation in whatſoever Impoſitions they ſhould lay upon them, by pretending themſelves unqueſtionably Ruling by a Divine and extraordinary right, a thing never before heard of as thus held forth, and which certainly if purſued to the utmoſt, would give them under that notion, a right to poſ<g ref="char:EOLhyphen"/>ſeſs all mens properties and Eſtates, as well as diſpoſe and govern them, and introduce ſuch Axioms as would ſoon have turned the three Nations into blood and confuſion. I intend not hereby any reflection upon the name of Saints, which my ſoul honours, nor upon the advantage of having godly men to rule, but upon the ill and dangerous uſe by
+<pb n="3" facs="tcp:166799:3"/>
+Satans temptations may be made of ſuch pretences, eſpeci<g ref="char:EOLhyphen"/>ally in theſe times, wherein his temptations lie moſtly that way.</p>
+            <p>The ſecond was, their manifeſtly rigid Principles of Impo<g ref="char:EOLhyphen"/>ſition, contended againſt with the blood of ſo many pre<g ref="char:EOLhyphen"/>cious Saints, and laying ſuch foundations as would ſhortly have introduced the bittereſt and ſoreſt perſecution; To this none are ſo conſcious, or can be, as thoſe that ſate daily with them in the Houſe, where they heard men un<g ref="char:EOLhyphen"/>ſainted and condemn'd into the fourth Monarchy, and looked upon as obſtructors of Reformation, and no lon<g ref="char:EOLhyphen"/>ger fit for the work, if not through paced to all the Princi<g ref="char:EOLhyphen"/>ples of Reformation held forth by Mr. <hi>Feake</hi> and others at <hi>Black-Fryers</hi> &amp; other places, and ſtickled for by ſom in the Houſe. To this purpoſe Letters are written to the Church<g ref="char:EOLhyphen"/>es all the Nation over, to blaſt that part of the Houſe that agreed not with them; and at a ſet-meeting at a Nembers houſe, of divers Members, Conſultation had to leave the Houſe, and Remonſtrate againſt them as hinderers of Re<g ref="char:EOLhyphen"/>formation, and not fit to Govern the Mation any longer. And things indeed amongſt them grown to that height, that it was evident in a ſhort time ſcarce any ſhould have been judged meet to publiſh the Goſpel, or receive the Magiſtrates countenance, that had not been baptized into their ſpirit and principle. And this I cannot but mention, that when the laſt great Debate was about Ejecting ſcan<g ref="char:EOLhyphen"/>dalous Miniſters, it was confidently averred, None ſhould be countenanced by the Magiſtrate but ſuch as diſclaimed their Ordination: Which, though I would not ſeem to ju<g ref="char:EOLhyphen"/>ſtifie it in the leaſt, how hard an Impoſition it was to put men upon this Dilemma, either to leave their preſent ſub<g ref="char:EOLhyphen"/>ſiſtence, or diſclaim the Ordination they had (it may be conſcienciouſly) received either from Biſhops or Presby<g ref="char:EOLhyphen"/>ters, is no hard thing to judge.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:166799:4"/>III. There appeared an evident deſign to alter the Go<g ref="char:EOLhyphen"/>vernment of the Army, and have put it into ſuch hands as would perfectly have correſponded with their principles, and given them a ſafe opportunity to have impoſed whatſo<g ref="char:EOLhyphen"/>ever they had pleaſed upon the Nation; and as there was juſt cauſe to fear, would have brought out what did not yet appear. This was certainly given in direction to divers Members met together, to pull down ſome in the Army, and ſet up others, either with or before them, as is moſt no<g ref="char:EOLhyphen"/>toriouſly known: And what other ſignification, but to al<g ref="char:EOLhyphen"/>ter the Government of the Army, the endeavours of many in the Houſe who came purpoſely prepared to take away the Officers pay, could have, I known not, unleſs it were to make a dangerous breach between the Parliament, and the Army who called them thither, or elſe to breed animoſities in the Army, and ſet them at variance among themſelves. This could not but be judged a moſt deſtructive thng, con<g ref="char:EOLhyphen"/>ſidering the ſtrength of the Nation, and the Intereſt of all the good people, was not a little bound up in the Armies ſafe and well conſiſting together. And this I cannot but remember, that ſome of the chief of thoſe men who de<g ref="char:EOLhyphen"/>claimed ſo much againſt the Officers taking their pay, and not going a warfare at their own charge, did at the ſame time while they were gazing at the mote in their brethrens eye, never reflect upon the beam in their own, they holding ſeveral places under the Commonwealth more beneficial then moſt individual Officers pay in the Army, ſo much de<g ref="char:EOLhyphen"/>claimed againſt.</p>
+            <p>Now for the particulars expreſſed in the printed Narra<g ref="char:EOLhyphen"/>tive, I ſhall conſider them apart, and give the true and ge<g ref="char:EOLhyphen"/>nuine ſignification to divers things there picked up, and put together with the greateſt diſadvantage and prejudice that is poſſible.</p>
+            <p>On the 12 inſtant divers Members came to the Houſe with an intention to inform them of our inſufficiency to do that good we were called for, as ſo conſtituted, and to per<g ref="char:EOLhyphen"/>ſwade them to joyn with them to reſign their Power (as
+<pb n="5" facs="tcp:166799:4"/>
+being a thing moſt ſafe and adviſeable) whence they recei<g ref="char:EOLhyphen"/>ved it; and if their concurrence could not be had, judged it their duty to do it in their particulars, and did it accor<g ref="char:EOLhyphen"/>dingly, by withdrawing themſelves accompanied with the Speaker, to the Horſe-Chamber in <hi>White-Hall,</hi> where near 80 Members voluntarily ſubſcribed a Reſignation of their Power to the Lord General, to which place none were com<g ref="char:EOLhyphen"/>pelled to come, and in which reſignation none were deſired to joyn but ſuch as had a freedom thereto, as was there often expreſt by ſome Members preſent; which reſignati<g ref="char:EOLhyphen"/>on by the Speaker, accompanied likewiſe with the ſaid Mem<g ref="char:EOLhyphen"/>bers, was delivered to the Lord Generall. What happened to thoſe few Members that remained in the Houſe I know not; but am conſcious of no force (as is intimated) either intended or offered to the Parliament whilſt a Houſe was ſitting.</p>
+            <p>To the firſt particular mentioned in his diſcourſe, that began the day that the Parliament was diſſolved, 'tis already toucht at in that part of it which concerns the Officers Pay. For the latter part of it that concerns the caſting out the Bill of Aſſeſsment, the Anſwers to it are altogether inſuf<g ref="char:EOLhyphen"/>ficient. Firſt, how the caſting out the Bill can be ſaid to be waved, as the Author affirms, when ſpoken and voted a<g ref="char:EOLhyphen"/>gainſt with the greateſt earneſtneſs, I underſtand not. The other anſwer, That it was only becauſe the Rates therein propoſed were unequal, is alſo invalid: For the Bill had been long in debate, and divers places upon deſire were eaſed; but to make a general alteration for ſome inequality was not thought fit now to be done, conſidering our pre<g ref="char:EOLhyphen"/>ſent condition in <hi>Scotland</hi> and elſwhere, becauſe it would obſtruct the raiſing the Mony ſo ſoon as was neceſſary; and if ſo, ſurely the throwing out the whole Bill, and to have ſtaid till another could have been drawn and paſt with all thoſe alterations, would have hindred it to purpoſe; be<g ref="char:EOLhyphen"/>ſides that ſuch alteration without divers preparations which would have taken up far more time then could have been had, could not have been made with any certainty or equa<g ref="char:EOLhyphen"/>lity;
+<pb n="4" facs="tcp:166799:5"/>
+and the Act itſelf alſo making the beſt and ſooneſt proviſion that might be to remedy all unequal Aſſeſſes throughout the Nation, by Pound-rate ſo much ſpoken for. So that to me it ſeems nothing could be intended but the direct caſting out the Bill, by which no ſmall inconve<g ref="char:EOLhyphen"/>niences would have followed to the hazarding the ſafety of the three Nations, and all under the plauſible pretext of eaſing the people.</p>
+            <p>For the ſecond particular of that Speech mentioned concerning Sir <hi>John Stowel,</hi> the Author moſt unequally wreſt it, it being neither ſpoken to take up or juſtifie a Cavalier-intereſt: neither were other things ſpoken to engage either Lawyers, or Corrupt Gentry, as the Author ſuggeſts; though I muſt needs ſay, whoever oppoſeth them muſt needs be grateful to all, they having diſengaged all to them, (like him <hi>whoſe hand was againſt every man, and every mans hand againſt him</hi>) but only urged to ſhew the diſcontents were amongſt good men in the Army and elſwhere, that the faith of the Army and honour of the Nation ſhould be no more regarded; and that men pro<g ref="char:EOLhyphen"/>feſſing Principles ſo far above their Brethren, ſhould be ſo ſhort in this, as not to make to him a reaſonable ſatisfacti<g ref="char:EOLhyphen"/>on, being cleared by the Court of Articles: which was all was deſired or contended for, and that not in the leaſt upon his ſcore, but upon the account of Common Juſtice, which ought to be ſhewed to all and every Man, without reſpect of perſons, to have his due.</p>
+            <p>To the third particular, which was, the frequent pulling down of all things, and never ſetting up: It was ſo appa<g ref="char:EOLhyphen"/>rent, that this Author ventures not upon an anſwer; and indeed if he ſhould, would but have engaged me to have made it more evident and plain. And for that he ſaith of the Gentlemans opinion that ſpake it, it being a private reflection, I ſhall paſs it over. Thoſe who heard thoſe paſ<g ref="char:EOLhyphen"/>ſages in the Houſe, are beſt able to judg of them: Though I ſee no inconvenience in being for pulling down things bad, to ſet up things better; and being againſt pulling
+<pb n="7" facs="tcp:166799:5"/>
+down of all things, and erecting nothing.</p>
+            <p>To the fourth particular, That which was ſpoken was, That although we were only a Parliament by our own no<g ref="char:EOLhyphen"/>mination, and never intruſted by the People with their Liberties or Properties, but came by an extraordinary call, had yet made the dangerouſeſt attempts upon both that ever Parliament did. The inſtance of taking away Preſen<g ref="char:EOLhyphen"/>tations was ſurely moſt pregnant to evince this, it being an evident intrenchment upon Propriety; and if that were once admitted, where it would end no man could tell; eſpe<g ref="char:EOLhyphen"/>cially now when men apply the name of <hi>Antichriſtian</hi> to every thing they like not. In the debate, many who were againſt the Vote, were yet moſt willing to have taken all poſſible care that none but good men might have been preſented, by conſtituting ſome moſt able and godly to have judged of all that were preſented, or any other way that might have been propoſed to effect that end. But to have voted away all Right of Preſentation in any, with<g ref="char:EOLhyphen"/>out any conſideration had how to put it into a better way, would unavoidably have produced one of theſe two things: Either that there ſhould have been no Preſentation at all, which had been an evident deſign to root out the publike Miniſtry; Or elſe it muſt have remained in the Parliament: And then beſides the unneceſſary taking it from them whoſe right it was, and that the Parliament al<g ref="char:EOLhyphen"/>ready had a right to approve of all that were by any pre<g ref="char:EOLhyphen"/>ſented, I ſee no change of the thing for the better.</p>
+            <p>The fifth particular mentioned, was, An endeavour to deſtroy the Miniſtry, as appears by the laſt Vote the Sa<g ref="char:EOLhyphen"/>turday before the diſſolution: To which the Author ſpeaks many things, and concludes, <hi>That their deſires ever were only, That the Lord Jeſus might reign, and the Nations flouriſh.</hi> But if we may judge (as ſurely it is the beſt way) of mens intentions by their actions, and their end by their means; whether pulling down Laws, and taking away Property be the means to make a Nation flouriſh, and ſup<g ref="char:EOLhyphen"/>planting publike Miniſtry the way to advance our Saviours Reign, let every ſober Chriſtian judge.</p>
+            <p>
+               <pb n="8" facs="tcp:166799:6"/>The true Narrative of that Weeks debate is this, There was a Committee appointed to conſider of a way to eject the ſcandalous Miniſters, and encourage the good. The Committee brought in by way of Report, as the beſt way to effect this, That Commiſſioners from hence ſhould be ſent into each County, who ſhould joyn with ſome in that County for the end aforeſaid. This alone the firſt part of the Report after a Weeks Debate, being put to the Queſtion, was carried in the Negative, the Conſideration of Tythes being diſtinct in the latter part of the Report: The ſole Reaſon in which all the Arguments did concen<g ref="char:EOLhyphen"/>ter, or the moſt conſiderable of them. Why this was not agreed to was, becauſe all were to be ejected as being An<g ref="char:EOLhyphen"/>tichriſtian in their Baſis and foundation. It was offered, and would likely have been agreed unto, to the end ſa<g ref="char:EOLhyphen"/>tisfaction might have been given, that whatever names or things were either evil, or might have given juſt ground of offence to any, ſhould have been either altered or re<g ref="char:EOLhyphen"/>moved; yet this would not ſatisfie with much more that was urged to this purpoſe, which cannot now be repeated, ſhewing alſo how unjuſt and cruel it was to turn out the good and bad together, and put many godly, painfull, faithfull Teachers, out of their Freeholds, to ſeek a ſub<g ref="char:EOLhyphen"/>ſiſtence for them and their Families. And now how lit<g ref="char:EOLhyphen"/>tle reaſon the other Members had to agree with them in this Vote, I leave it to all good men to judg, eſpecially when they or many of them at the ſame inſtant that they preſſed this, profeſſed fully againſt the Magiſtrates Pow<g ref="char:EOLhyphen"/>er in any matters of Religion, and particularly in that of placing or ſending forth men to Preach the Goſpel ſo that when all had been ſwept away, what poſſibility or hope could there be of having ever reſetled a conſtant publick Preaching Miniſtry in this Nation?</p>
+            <p>In the laſt clauſe he ſaith, The difference in the Houſe never appeard ſo effectual, as when divers after ſeeking God came with their Bibles in their hands, and God bore ſuch witnes, that they who were otherwiſe minded, could not with<g ref="char:EOLhyphen"/>ſtand
+<pb n="9" facs="tcp:166799:6"/>
+in their conſciences their power and wiſdom, there<g ref="char:EOLhyphen"/>fore endeavoured thus to diſſolve the Houſe. Meetings in<g ref="char:EOLhyphen"/>deed there were ſeveral daies, and divers of the Members on many daies came not to the Houſe to attend their ſer<g ref="char:EOLhyphen"/>vice, and indeed at laſt came little there but when ſome things were to be driven forwards to the great trouble of divers godly Members, who now began to fear that that meeting was rather to make a faction and get Proſelytes, then to the pretended ends which were good and com<g ref="char:EOLhyphen"/>mendable at firſt. I ſhall not venture to judg any in this matter, though this Author determins, that they after meetings convicted divers Members conſciences, and that made them leave the Parliament, a high exerciſe of Judi<g ref="char:EOLhyphen"/>cature; and as to my own particular, I can affirm untrue<g ref="char:EOLhyphen"/>ly made; yet this I muſt ſay, It is never a worſe time then when good means are tampered with to bad ends, when <hi>Ahab</hi> proclaims a Faſt to accuſe <hi>Naboth.</hi> What effects that meeting had elſewhere I know not, but in the Houſe, thoſe who came from it were more ſtif and perverſ then be<g ref="char:EOLhyphen"/>fore, and preſſed ſuch things as ſeem'd little agreeable either to the Scriptures or right Reaſon, and ſometimes made ſuch uſe of divers Texts, impoſing ſuch ſenſe upon them, as all gracious hearts would have been grieved at, and I have no pleaſure to repeat, and indeed made it more then a little evident, and gave juſt ground of fear that both Scri<g ref="char:EOLhyphen"/>ptures urged, and daies ſet apart from the Houſe, were on<g ref="char:EOLhyphen"/>ly uſed to engage the minds of wel-meaning men, and the better to carry on things before reſolved and determined.</p>
+            <p>To be plain, and conclude, ſome Men grew to that height of Cenſure, that ſome who differed from them, have been as from God, and in his Name by them rejected; and I cannot but mention the confidence was taken by One of his own Opinion, as that he ſaid, He ſpake it not, but the Lord in him; which had it been believed, All reaſoning had cea<g ref="char:EOLhyphen"/>ſed, and every man muſt have yeilded preſent obedience to what he had promulged (though never ſo deſtructive.) The Diviſions (which cannot be ſpoken of without ſorrow
+<pb n="10" facs="tcp:166799:7"/>
+and grief, to be amongſt ſuch men, (and which I heartily wiſh might rather have been ſilently buried, then this occaſion given by the Author to revive them) were ſuch, as that all the Actions were full of Inconſiſten<g ref="char:EOLhyphen"/>cy in themſelves, ſometimes carryed by one Party, ſom<g ref="char:EOLhyphen"/>times by another: The three Nations, the Intereſt of all the Saints, and the Cauſe ſo long fought for, called for deliverance another way, nothing being viſible to the pro<g ref="char:EOLhyphen"/>ſpect of any Wiſe man, but generall Confuſion, and the loſs of All, by having in the midſt of ſuch diſtempers, the Com<g ref="char:EOLhyphen"/>mon Enemy come in like a Deluge upon us, and ſo become at once a prey to our Enemies, and a Reproach and a By<g ref="char:EOLhyphen"/>word to all the Nations round about us.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 TIM. 3.1—6.</hi>
+                  </bibl>
+                  <p>This know, that in the laſt dayes perillous Times ſhall come: For, men ſhall be — heady, high-minded, deſpiſers of them that are good, having a Form of Godlineſs, but denying the power thereof; from ſuch turn away.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
